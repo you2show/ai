@@ -1,5 +1,12 @@
 # @ai-sdk/amazon-bedrock
 
+## 5.0.0-canary.79
+
+### Patch Changes
+
+- Updated dependencies [6a5800e]
+  - @ai-sdk/openai@4.0.0-canary.70
+
 ## 5.0.0-canary.78
 
 ### Patch Changes
